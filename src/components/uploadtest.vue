@@ -10,6 +10,8 @@
 
 		<h2>第二次测试修改</h2>
 
+		<h1>测试两次不同的修改</h1>
+
 		<input type="text" name="username" v-model="username"/>
 		<input type="file" name="file" />
 		<input type="button" value="提交"  v-on:click="upload()"/>
