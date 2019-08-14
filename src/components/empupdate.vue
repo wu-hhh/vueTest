@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
 		<form class="form-horizontal" role="form">
+			
 						<div class="form-group">
 							<label for="firstname" class="col-sm-1 control-label">姓名</label>
 							<div class="col-sm-10">
